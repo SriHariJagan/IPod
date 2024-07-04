@@ -70,9 +70,6 @@ The Mini iPod App is a ReactJS application that mimics the functionality of a cl
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to modify this `README.md` file as needed for your project.
