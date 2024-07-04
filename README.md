@@ -36,7 +36,7 @@ The Mini iPod App is a ReactJS application that mimics the functionality of a cl
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/mini-ipod-app.git
+    git clone https: https://github.com/SriHariJagan/IPod.git
     ```
 2. Navigate to the project directory:
     ```sh
